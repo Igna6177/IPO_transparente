@@ -1,0 +1,9 @@
+http://www.gajotres.net/using-google-maps-javascript-api-v3-with-jquery-mobile/
+http://demos.jquerymobile.com/1.4.0/map-geolocation/
+https://developers.google.com/maps/documentation/javascript/geolocation
+	api google maps
+	
+	
+
+https://www.kirupa.com/html5/accessing_your_webcam_in_html5.htm
+	camara con html5
